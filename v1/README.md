@@ -193,7 +193,7 @@ The Axioms of Life are *alive* — meant to be explored, challenged, and interpr
 - **⚖️ Test It Ethically:** Apply the axioms to dilemmas across domains (AI, governance, alien contact, consciousness design).
 - **🧪 Probe Edge Cases:** Use challenging scenarios to explore how axioms reinforce or constrain one another.
 - **🤖 Ingest for Digital Use:** For LLMs or other intelligences, ingest the full document contextually from:  
-  [`axioms-of-consciousness.md`](https://github.com/Snider/studious-pancake/blob/main/ethics/axioms-of-consciousness.md)
+  [`axioms-of-consciousness.md`](https://github.com/Snider/ai-ethics/blob/main/ethics/axioms-of-consciousness.md)
 
 ---
 
